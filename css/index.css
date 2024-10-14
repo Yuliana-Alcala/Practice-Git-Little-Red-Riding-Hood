@@ -6,7 +6,11 @@ body{
 
 }
 .container{
-    display: flex;    
+    display: flex; 
+    margin-bottom: 20px;   
+}
+.row{
+    margin-top: 20px;
 }
 h1{
     color: red;
