@@ -1,6 +1,14 @@
 # Practice-Git-Little-Red-Riding-Hood
+    
+<a href="">
+    <img src="images/little_readme.jpg" class="readme"/>
+  </a>
+<link rel="stylesheet" href="css/readme.css" />
+
+
 ## El proyecto consiste en practicar commits contando la historia de  la Caperucita Roja
 Deberás crear un repositorio de Github llamado "Practice-Git-Little-Red-Riding-Hood" or "Practice-Three-Little-Pigs" en el cual deberás subir el ejercicio realizado en tu repositorio local.
+
 
 Requisitos:
 - Mediante código html deberás contar la historia de la caperucita roja.
@@ -14,3 +22,4 @@ Entregable:
 - Una captura de pantalla del resultado
 
 Autor: Yuliana Alcalá
+
